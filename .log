@@ -1,0 +1,5 @@
+[ 11/10/2021 08:07:08 ]  INFO  Starting to load extentions.
+[ 11/10/2021 08:07:08 ]  LOAD  plugins/test.py couldn't be loaded: "module 'plugins.test' has no attribute '__path__'"
+[ 11/10/2021 08:07:08 ]  INFO  Finished loading extentions.
+[ 11/10/2021 08:08:35 ]  INFO  Starting to load extentions.
+[ 11/10/2021 08:08:36 ]  INFO  Finished loading extentions.
